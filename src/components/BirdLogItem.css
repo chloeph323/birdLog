@@ -1,0 +1,28 @@
+.bird-log-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .bird-image {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .bird-name {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .bird-input {
+    width: 60px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
